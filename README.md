@@ -1,6 +1,6 @@
 # python-reverse-shell
 
 
-Tutorial link : https://youtu.be/muRlp91QEio
+Tutorial link : 
 
-&copy;andra geome 
+&copy;makrof
